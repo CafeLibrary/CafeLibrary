@@ -16,7 +16,7 @@ nav li a{
 }
 body{
 
-background-image: url("Coffee.jpg");
+background-image: url("../img/Coffee.jpg");
 
 }
 
@@ -38,3 +38,16 @@ address {
     font-weight: 100px;
     
 }
+footer {
+    clear: both;
+    background-color: burlywood;
+    color: white;
+    height: 30px;
+    text-align: center;
+ }
+ footer a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+ }
+ 
