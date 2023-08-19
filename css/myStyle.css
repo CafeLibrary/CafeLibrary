@@ -1,0 +1,54 @@
+nav{ 
+    background-color: burlywood;
+    height: 50px;
+    padding-bottom: 40px;
+}
+nav li{
+    display: inline;
+
+    
+}
+nav li a{
+    color: black;
+    font-size:1.5em;
+    font-weight: bolder;
+    margin-left: 20px;
+}
+body{
+
+background-image: url("../img/Coffee.jpg");
+background-size: cover;
+
+}
+
+
+body {font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif}
+h1 {
+    color:rgb(172, 145, 105);
+    font-weight:lighter;
+
+}
+h3 {color:firebrick;
+    font-family:'Times New Roman'}
+ul1 {
+    color:rgb(34, 11, 2);
+    }
+address { 
+    color: green;
+    font-family: Verdana;
+    font-weight: 100px;
+    
+}
+footer {
+    clear: both;
+    background-color: burlywood;
+    color: white;
+    height: 30px;
+    text-align: center;
+ }
+ footer a {
+    text-decoration: none;
+    color: white;
+    margin-left: 20px;
+ }
+ 
